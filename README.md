@@ -64,3 +64,6 @@ Este é um projeto Android desenvolvido com **Jetpack Compose** que simula um si
 - **PerfilScreen**: mostra dados do usuário.
 
 
+Feito por Gabriel Santos, 2025
+
+
