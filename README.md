@@ -49,3 +49,18 @@ Este é um projeto Android desenvolvido com **Jetpack Compose** que simula um si
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
+
+2.Abra o projeto no Android Studio.
+
+3.Execute em um emulador ou dispositivo físico com Android 5.0 (API 21) ou superior.
+
+### Estrutura de Navegação
+
+*MainActivity: gerencia a navegação principal.
+*LoginScreen: tela inicial para autenticação.
+*RegisterScreen: cadastro de novo usuário.
+*HomeScreen: interface principal com menu lateral.
+*CadastrarScreen e ListarProdutosScreen: telas internas da Home.
+*PerfilScreen: mostra dados do usuário.
+
+
