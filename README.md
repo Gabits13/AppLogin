@@ -48,7 +48,7 @@ Este é um projeto Android desenvolvido com **Jetpack Compose** que simula um si
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Gabits13/AppLogin.git
 
 2.Abra o projeto no Android Studio.
 
