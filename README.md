@@ -54,13 +54,13 @@ Este é um projeto Android desenvolvido com **Jetpack Compose** que simula um si
 
 3.Execute em um emulador ou dispositivo físico com Android 5.0 (API 21) ou superior.
 
-### Estrutura de Navegação
+### 📂 Estrutura de Navegação
 
-*MainActivity: gerencia a navegação principal.
-*LoginScreen: tela inicial para autenticação.
-*RegisterScreen: cadastro de novo usuário.
-*HomeScreen: interface principal com menu lateral.
-*CadastrarScreen e ListarProdutosScreen: telas internas da Home.
-*PerfilScreen: mostra dados do usuário.
+- **MainActivity**: gerencia a navegação principal.
+- **LoginScreen**: tela inicial para autenticação.
+- **RegisterScreen**: cadastro de novo usuário.
+- **HomeScreen**: interface principal com menu lateral.
+- **CadastrarScreen** e **ListarProdutosScreen**: telas internas da Home.
+- **PerfilScreen**: mostra dados do usuário.
 
 
